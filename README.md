@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me ...
 olvanegasmo@unal.edu.co
-[linkedin](https://www.linkedin.com/in/oscarleonardovm/)
+https://www.linkedin.com/in/oscarleonardovm/
 
 ### Other interest:
 Videogames
