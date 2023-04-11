@@ -1,4 +1,21 @@
-### Hi there 👋
+# Oscar Leonardo Vanegas Molano
+## Data Scientist & Data Engineer
+### Still learning Git-GitHub
+
+### 🌱 I’m currently learning ...
+- Applied Statistics
+- Machine Learning & Deep Learning
+- Spark & DataBricks
+
+### 📫 How to reach me ...
+olvanegasmo@unal.edu.co
+[linkedin](https://www.linkedin.com/in/oscarleonardovm/)
+
+### Other interest:
+Videogames
+Reading / Writting (still trying)
+Music
+Astronomy
 
 <!--
 **oscarleonardovm/oscarleonardovm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
